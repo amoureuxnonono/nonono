@@ -7,3 +7,6 @@ ws/dict/__pycache__
 ws/base/__pycache__
 ws/adit/__pycache__
 ws/scan/__pycache__
+ws/net/__pycache__
+ws/chains/__pycache__
+ws/caller/__pycache__
