@@ -10,3 +10,4 @@ ws/scan/__pycache__
 ws/net/__pycache__
 ws/chains/__pycache__
 ws/caller/__pycache__
+ws/abi/__pycache__

@@ -3,5 +3,6 @@ from .kf import(
 )
 
 from .scan import(
+    BatchForceScan,
     sp_address_scan
 )

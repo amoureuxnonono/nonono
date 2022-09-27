@@ -8,3 +8,5 @@ from .ChainIds import (
     Okex,
     OkexTest
 )
+
+from .BatchBalances import get_address as get_BatchBalancesAddress 
